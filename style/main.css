@@ -71,4 +71,5 @@ a:hover {
 .social-medias span {
   display: inline-block;
   width: 50px;
+  cursor: pointer;
 }
